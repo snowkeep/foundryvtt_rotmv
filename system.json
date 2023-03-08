@@ -1,0 +1,30 @@
+{
+  "id": "rotmv",
+  "version": "0.1.0",
+  "title": "Rangers of the Midden Vale",
+  "url": "https://github.com/snowkeep/foundryvtt_rotmv",
+  "description": "A system for Ranger's of the Midden Vale, Sean McClellan's hack of Knave.",
+  "license": "LICENSE.txt",
+  "authors": [{
+    "name": "snowkeep",
+    "url": "https://snowkeep.ca"
+  }],
+  "esmodules": ["modules/rotmv.js"],
+  "styles": ["styles/rotmv.css"],
+  "packs": [],
+  "languages": [{
+    "lang": "en",
+    "name": "English",
+    "path": "lang/en.json"
+  }],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291",
+    "maximum": "10"
+  },
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "manifest": "https://raw.githumusercontent.com/snowkeep/foundryvtt_rotmv/main/system.json",
+  "download": ""
+}
